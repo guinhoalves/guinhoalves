@@ -2,8 +2,8 @@
 
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guinhoalves&show_icons=true&theme=algolia" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinhoalves&layout=compact&theme=algolia" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugobarbosaalves&show_icons=true&theme=algolia" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobarbosaalves&layout=compact&theme=algolia" />
 </div>
 
 ##
