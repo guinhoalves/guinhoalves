@@ -1,13 +1,5 @@
 ## Hi I'm Hugo Alves 👋
 
-
-//<div>
-    //<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugobarbosaalves&show_icons=true&theme=algolia" />
-    //<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobarbosaalves&layout=compact&theme=algolia" />
-//</div>
-
-##
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Hugo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
